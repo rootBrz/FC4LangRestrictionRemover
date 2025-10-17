@@ -1,6 +1,7 @@
 # Far Cry 4 Language Restriction Remover
 
-Fixes the hardcoded interface language in the Russian version of Far Cry 4, allowing you to freely choose your preferred language through a simple INI file.
+Fixes the hardcoded interface language in the Russian version of Far Cry 4, allowing you to choose your language through an INI file.  
+Tested on latest Steam version of the game.
 
 ---
 
