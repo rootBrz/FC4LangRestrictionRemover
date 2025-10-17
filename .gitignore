@@ -1,0 +1,6 @@
+/.cache/
+/.xmake/
+/build/
+/.objs/
+/.deps/
+/compile_commands.json
